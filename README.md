@@ -72,8 +72,7 @@ University coursework.
 More studying.  
   ▸ the mathematical foundations of computing  
   ▸ AI/Machine Learning, Cloud computing, Container orchestration, Hardware  
-### Outside of Work 
-##### _(too) many hobbies_
+### Hobbies and Interests
 I'm a sponsored chess expert, former state champ, and coach. I create/design/build/do things  
 in my free time: audio recordings, woodworking, personal coding projects,  
 collecting/modding old electronics, creative writing and random art projects.  
