@@ -1,4 +1,3 @@
-## Hi - I'm Joe.
 (voolyvex is a pretty cool sounding word invented by my nephew)
 
 ### Who Am I
